@@ -1,0 +1,8 @@
+# Compiled C++ artifacts
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+build/
+.DS_Store
